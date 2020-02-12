@@ -5,7 +5,7 @@ description:        "훈래 공부 로그 기록"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.JPG' # 로고 사진
-background:         'assets/img/placeholder-big.PNG' # 배경 사진
+background:         'https://github.com/sam7073/sam7073.github.io/blob/master/assets/img/placeholder-big.png?raw=true' # 배경 사진
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://sam7073.github.io/
