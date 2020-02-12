@@ -1,37 +1,33 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Hoon
+tags: [about]
+date: 2020-02-13
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><b>NASA에서 일하는게 꿈</b></center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+---
+## 학력
+---
+* 세종 대학교 소프트웨어학과 재학 중
+* 와부 고등학교 졸업
+* 호원 중학교 졸업
+* 회천 초등학교 졸업
 
-## Preview
+---
+## 특징
+---
+* 피아노 치는 것을 좋아함
+* 드럼 치는 것도 좋아함
+* 별 보러 다니고 싶어함
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+---
+## 관심사
+---
+* 딥 러닝, AI
+* 안드로이드 앱 개발을 통한 인생 한 방
+* 요리
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+---
