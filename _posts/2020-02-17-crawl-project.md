@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "구글 플레이 크롤링 프로젝트"
-date:   2020-0217
+date:   2020-02-17
 excerpt: "구글 플레이 순위와 리뷰 데이터 수집"
 project: true
 tag: 
